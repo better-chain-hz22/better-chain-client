@@ -1,7 +1,8 @@
-import {Marker, Popup} from "react-leaflet";
+import {Circle, CircleMarker, Marker, Popup, SVGOverlay} from "react-leaflet";
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
 import RouteAnimation from "./RouteAnimation";
+import RiskMarker from "./RiskMarker";
 
 const MapViewFunctions = () => {
 
@@ -77,9 +78,14 @@ const MapViewFunctions = () => {
 
 
 
-    const renderAlerts = (alerts) => {
-        return null;
+    const renderPortAlerts = (portAlerts) => {
+        return portAlerts.map(p => {
+          return p.alerts.length && <RiskMarker position={p.position}
+                             alerts={p.alerts}
+          />
+        })
     }
+
 
 
     return {
@@ -88,7 +94,7 @@ const MapViewFunctions = () => {
         renderDestinationPorts,
         renderSourcePorts,
         renderRoute,
-        renderAlerts,
+        renderPortAlerts,
     }
 }
 

@@ -16,3 +16,13 @@ export const RiskType = {
     HACKING: 'HACKING',
     SUPPLIER: 'SUPPLIER'
 }
+
+export const mapSeverityToColor = (severity) => {
+    if (severity < 0.3) {
+        return '#fddc69';
+    } else if (severity < 0.6) {
+        return '#ff832b';
+    } else {
+        return '#da1e28';
+    }
+}

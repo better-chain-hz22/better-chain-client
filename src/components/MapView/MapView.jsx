@@ -2,7 +2,6 @@ import React from 'react';
 import {MapContainer, TileLayer} from "react-leaflet";
 import './map_view.scss';
 import dataPoints from './points.json';
-import portData from '../../data/ports.json';
 import {mock_data} from "./mock";
 import MapViewFunctions from "./MapViewFunctions";
 
@@ -17,7 +16,7 @@ function MapView() {
                 />
                 {MapViewFunctions.renderDestinationPorts(mock_data.destination_ports)}
                 {MapViewFunctions.renderSourcePorts(mock_data.source_ports)}
-                {MapViewFunctions.renderAlerts()}
+                {MapViewFunctions.renderPortAlerts(mock_data.recent_alerts)}
             </MapContainer>
 
     );
