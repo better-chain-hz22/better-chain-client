@@ -1,0 +1,82 @@
+[
+  {
+    "id": "JPAIO",
+    "port_name": "Aioi",
+    "position": [
+      34.78907,
+      134.46388
+    ]
+  },
+  {
+    "id": "USPHC",
+    "port_name": "Pointe A La Hache",
+    "position": [
+      29.57611,
+      -89.79325
+    ]
+  },
+  {
+    "id": "CNSDG",
+    "port_name": "Shuidong",
+    "position": [
+      21.48051,
+      111.0627
+    ]
+  },
+  {
+    "id": "ESRIB",
+    "port_name": "Ribadeo",
+    "position": [
+      43.53644,
+      -7.03579
+    ]
+  },
+  {
+    "id": "ARUSH",
+    "port_name": "Ushuaia",
+    "position": [
+      -54.80275,
+      -68.30147
+    ]
+  },
+  {
+    "id": "USMUI",
+    "port_name": "Munising",
+    "position": [
+      46.41272,
+      -86.65366
+    ]
+  },
+  {
+    "id": "CVRAI",
+    "port_name": "Praia",
+    "position": [
+      14.91202,
+      -23.50009
+    ]
+  },
+  {
+    "id": "JPUKB",
+    "port_name": "Kobe",
+    "position": [
+      34.68803,
+      135.2092
+    ]
+  },
+  {
+    "id": "TCGDT",
+    "port_name": "Grand Turk Island",
+    "position": [
+      21.42729,
+      -71.14488
+    ]
+  },
+  {
+    "id": "MZMZQ",
+    "port_name": "Mocambique",
+    "position": [
+      -15.03081,
+      40.73659
+    ]
+  }
+]
