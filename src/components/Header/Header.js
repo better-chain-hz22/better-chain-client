@@ -1,5 +1,5 @@
 import logo from "../../images/migros-logo.svg";
-import { Information16 as Information } from "@carbon/icons-react";
+import { Information } from "@carbon/icons-react";
 import {
   Header,
   HeaderName,

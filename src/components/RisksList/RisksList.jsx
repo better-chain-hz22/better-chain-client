@@ -1,16 +1,22 @@
 import React from 'react';
+import { useNavigate } from 'react-router-dom';
 import './risks_list.scss';
 import {ClickableTile} from "@carbon/react/lib/components/Tile/Tile";
 import {mapSeverityToColor} from "../../meta";
 import {Toggle} from "@carbon/react";
 
 
+
+
 const OrderRow = ({data}) => {
+    let navigate = useNavigate();
+    const handleClick = () => {
+        navigate('/order-page');
+    }
+
     return (
             <ClickableTile
-                onClick={() => {
-                    console.log('clicked ', data.id);
-                }}
+                onClick={() => {handleClick()}}
                 className={'risk_row_tile'}
                 style={{borderLeftColor: mapSeverityToColor(data.overall_risk)}}
                   key={data.id}>
@@ -24,7 +30,7 @@ const OrderRow = ({data}) => {
                         {data.id}
                     </div>
                     <div className={'risk_row__src_dst'}>
-                        {data.source} > {data.destination}
+                        {data.source} {'->'} {data.destination}
                     </div>
                     <div className={'risk_row__risk_types'}>
                         <ul>

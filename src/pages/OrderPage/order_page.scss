@@ -1,0 +1,34 @@
+.detail_row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    .detail_row__item {
+        margin-bottom: .25rem;
+    }
+}
+
+
+svg.warn-icon {
+    fill: #fff;
+    margin-left: 1rem;
+    background-color: #DA1E28;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+svg.alert-icon {
+    fill: #fff;
+    margin-left: 1rem;
+    background-color: #FF832B;
+    border-radius: 50%;
+    padding: 5px;
+}
+
+svg.action-icon {
+    fill: #fff;
+    margin-left: 1rem;
+    background-color: #FDDC69;
+    border-radius: 50%;
+    padding: 5px;
+}
