@@ -1,0 +1,66 @@
+[
+  {
+    "id": "ITGOA",
+    "port_name": "Genova",
+    "position": [
+      44.40205,
+      8.92996
+    ]
+  },
+  {
+    "id": "DEHAM",
+    "port_name": "Hamburg",
+    "position": [
+      53.53577,
+      9.98743
+    ]
+  },
+  {
+    "id": "DEDUI",
+    "port_name": "Duisburg",
+    "position": [
+      51.45086,
+      6.76337
+    ]
+  },
+  {
+    "id": "CHBSL",
+    "port_name": "Basel",
+    "position": [
+      47.56192,
+      7.58634
+    ]
+  },
+  {
+    "id": "ITSPE",
+    "port_name": "La Spezia",
+    "position": [
+      44.10148,
+      9.81724
+    ]
+  },
+  {
+    "id": "ESVLC",
+    "port_name": "Valencia",
+    "position": [
+      39.45913,
+      -0.323
+    ]
+  },
+  {
+    "id": "NLRTM",
+    "port_name": "Rotterdam",
+    "position": [
+      51.88811,
+      4.45693
+    ]
+  },
+  {
+    "id": "BEANR",
+    "port_name": "Antwerpen (Antwerp)",
+    "position": [
+      51.2495,
+      4.38621
+    ]
+  }
+]

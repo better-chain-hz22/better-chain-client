@@ -1,0 +1,1344 @@
+{
+  "distributionCenter": [
+    47.469485,
+    8.384499
+  ],
+  "ports": [
+    {
+      "FID": "wld_trs_ports_wfp.14321",
+      "portname": "Santa Fe",
+      "latitude": -31.65014,
+      "longitude": -60.69712
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14338",
+      "portname": "Damman",
+      "latitude": 26.48684,
+      "longitude": 50.19733
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14379",
+      "portname": "Tuxpan",
+      "latitude": 20.94442,
+      "longitude": -97.39383
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14390",
+      "portname": "Bandar Abbas",
+      "latitude": 27.14681,
+      "longitude": 56.20611
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14396",
+      "portname": "Basrah",
+      "latitude": 30.51164,
+      "longitude": 47.84923
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14401",
+      "portname": "Haydarpasa",
+      "latitude": 41.00242,
+      "longitude": 29.01452
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14406",
+      "portname": "Zayed",
+      "latitude": 24.51602,
+      "longitude": 54.37681
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14409",
+      "portname": "Sittwe",
+      "latitude": 20.14001,
+      "longitude": 92.90128
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14460",
+      "portname": "Banten",
+      "latitude": -6.01375,
+      "longitude": 105.95816
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14478",
+      "portname": "Chennai",
+      "latitude": 13.08638,
+      "longitude": 80.29179
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14521",
+      "portname": "Balogo",
+      "latitude": 13.75936,
+      "longitude": 121.04326
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14526",
+      "portname": "Map Ta Phut",
+      "latitude": 12.66904,
+      "longitude": 101.15214
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14573",
+      "portname": "Muhammad Bin Qasim",
+      "latitude": 24.76535,
+      "longitude": 67.3265
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14592",
+      "portname": "Havana",
+      "latitude": 23.1236,
+      "longitude": -82.34714
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14645",
+      "portname": "Polloc",
+      "latitude": 7.35111,
+      "longitude": 124.22257
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14649",
+      "portname": "Sharjah",
+      "latitude": 25.36269,
+      "longitude": 55.37687
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14652",
+      "portname": "Cotonou",
+      "latitude": 6.34929,
+      "longitude": 2.42593
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14687",
+      "portname": "Bangkok",
+      "latitude": 13.70734,
+      "longitude": 100.56578
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14701",
+      "portname": "Bujumbura",
+      "latitude": -3.37743,
+      "longitude": 29.34555
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14711",
+      "portname": "Dakar",
+      "latitude": 14.68863,
+      "longitude": -17.42513
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14722",
+      "portname": "Tema",
+      "latitude": 5.63042,
+      "longitude": 0.0057
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14733",
+      "portname": "Abidjan",
+      "latitude": 5.31057,
+      "longitude": -4.01567
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14734",
+      "portname": "Mogadishu",
+      "latitude": 2.02372,
+      "longitude": 45.33836
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14748",
+      "portname": "Cartagena",
+      "latitude": 10.40575,
+      "longitude": -75.53294
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14749",
+      "portname": "Belawan",
+      "latitude": 3.79246,
+      "longitude": 98.71623
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14757",
+      "portname": "Odessa",
+      "latitude": 46.48652,
+      "longitude": 30.74854
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14758",
+      "portname": "Kherson",
+      "latitude": 46.65936,
+      "longitude": 32.66325
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14760",
+      "portname": "Kerch",
+      "latitude": 45.36156,
+      "longitude": 36.48145
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14762",
+      "portname": "Mariupol",
+      "latitude": 47.09613,
+      "longitude": 37.57886
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14781",
+      "portname": "Iloilo",
+      "latitude": 10.69083,
+      "longitude": 122.58278
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14782",
+      "portname": "Aden",
+      "latitude": 12.79655,
+      "longitude": 45.00748
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14792",
+      "portname": "Lattakia",
+      "latitude": 35.50998,
+      "longitude": 35.7654
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14793",
+      "portname": "Tartous",
+      "latitude": 34.90933,
+      "longitude": 35.87337
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14797",
+      "portname": "Toamasina",
+      "latitude": -18.15439,
+      "longitude": 49.42657
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14798",
+      "portname": "Beirut",
+      "latitude": 33.90151,
+      "longitude": 35.51784
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14805",
+      "portname": "Aqaba",
+      "latitude": 29.51308,
+      "longitude": 34.99603
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14812",
+      "portname": "Mombasa",
+      "latitude": -4.05997,
+      "longitude": 39.64962
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14928",
+      "portname": "Mundra",
+      "latitude": 22.74313,
+      "longitude": 69.69478
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14946",
+      "portname": "Sint Nicolaas",
+      "latitude": 12.42711,
+      "longitude": -69.90302
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14947",
+      "portname": "Hamilton",
+      "latitude": 32.29105,
+      "longitude": -64.78655
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14948",
+      "portname": "Puerto Deseado",
+      "latitude": -47.75347,
+      "longitude": -65.91264
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14949",
+      "portname": "San Antonio",
+      "latitude": -33.59777,
+      "longitude": -71.61743
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14950",
+      "portname": "Oranjestad",
+      "latitude": 12.51912,
+      "longitude": -70.03845
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14951",
+      "portname": "La Guaira",
+      "latitude": 10.59814,
+      "longitude": -66.94142
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14952",
+      "portname": "Tampico",
+      "latitude": 22.21337,
+      "longitude": -97.86337
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14953",
+      "portname": "Iquitos",
+      "latitude": -3.73096,
+      "longitude": -73.23963
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14955",
+      "portname": "Corinto",
+      "latitude": 12.48084,
+      "longitude": -87.16871
+    },
+    {
+      "FID": "wld_trs_ports_wfp.14973",
+      "portname": "Aliaga",
+      "latitude": 38.80293,
+      "longitude": 26.96204
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15175",
+      "portname": "Santos",
+      "latitude": -23.96263,
+      "longitude": -46.29356
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15176",
+      "portname": "Puerto Caldera",
+      "latitude": 9.91275,
+      "longitude": -84.71524
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15177",
+      "portname": "Lazaro Cardenas",
+      "latitude": 17.95308,
+      "longitude": -102.17372
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15178",
+      "portname": "Manzanillo",
+      "latitude": 19.053,
+      "longitude": -104.31505
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15179",
+      "portname": "Mazatlan",
+      "latitude": 23.18716,
+      "longitude": -106.42091
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15180",
+      "portname": "Quequen",
+      "latitude": -38.57627,
+      "longitude": -58.70127
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15181",
+      "portname": "Itajai",
+      "latitude": -26.91097,
+      "longitude": -48.655
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15182",
+      "portname": "Antofagasta",
+      "latitude": -23.6492,
+      "longitude": -70.40326
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15183",
+      "portname": "Vitoria",
+      "latitude": -20.32233,
+      "longitude": -40.33729
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15185",
+      "portname": "Cristobal",
+      "latitude": 9.33755,
+      "longitude": -79.90726
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15208",
+      "portname": "Arica",
+      "latitude": -18.47636,
+      "longitude": -70.3223
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15209",
+      "portname": "Doha",
+      "latitude": 25.2971,
+      "longitude": 51.54923
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15210",
+      "portname": "Port Harcourt",
+      "latitude": 4.77544,
+      "longitude": 7.00264
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15241",
+      "portname": "Nouadhibou",
+      "latitude": 20.91411,
+      "longitude": -17.0403
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15430",
+      "portname": "Talcahuano",
+      "latitude": -36.693,
+      "longitude": -73.09996
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15431",
+      "portname": "Pamatacual",
+      "latitude": 10.24104,
+      "longitude": -64.57942
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15432",
+      "portname": "Ashdod",
+      "latitude": 31.82475,
+      "longitude": 34.6482
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15433",
+      "portname": "Itaqui",
+      "latitude": -2.57941,
+      "longitude": -44.36798
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15435",
+      "portname": "Guaymas",
+      "latitude": 27.91859,
+      "longitude": -110.872
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15436",
+      "portname": "Izmir",
+      "latitude": 38.44191,
+      "longitude": 27.15477
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15438",
+      "portname": "Jeddah",
+      "latitude": 21.46388,
+      "longitude": 39.17029
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15532",
+      "portname": "Paramaribo",
+      "latitude": 5.81283,
+      "longitude": -55.16633
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15534",
+      "portname": "Tripoli",
+      "latitude": 32.90412,
+      "longitude": 13.18102
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15535",
+      "portname": "Manila",
+      "latitude": 14.59804,
+      "longitude": 120.96049
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15678",
+      "portname": "Canakkale",
+      "latitude": 40.15029,
+      "longitude": 26.40266
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15679",
+      "portname": "Buenos Aires",
+      "latitude": -34.59058,
+      "longitude": -58.37344
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15681",
+      "portname": "Valparaiso",
+      "latitude": -33.03935,
+      "longitude": -71.62628
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15682",
+      "portname": "Tubarao",
+      "latitude": -20.28376,
+      "longitude": -40.2422
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15683",
+      "portname": "Belem",
+      "latitude": -1.4405,
+      "longitude": -48.49365
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15684",
+      "portname": "Acajutla",
+      "latitude": 13.57453,
+      "longitude": -89.8338
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15685",
+      "portname": "Freeport",
+      "latitude": 26.51869,
+      "longitude": -78.76857
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15686",
+      "portname": "Puerto Cabello",
+      "latitude": 10.47301,
+      "longitude": -68.00372
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15687",
+      "portname": "Topolobampo",
+      "latitude": 25.59076,
+      "longitude": -109.06023
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15701",
+      "portname": "Dumai",
+      "latitude": 1.6861,
+      "longitude": 101.44849
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15703",
+      "portname": "Cienfuegos",
+      "latitude": 22.14121,
+      "longitude": -80.45628
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15711",
+      "portname": "Pago Pago",
+      "latitude": -14.27541,
+      "longitude": -170.69365
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15712",
+      "portname": "Port Said",
+      "latitude": 31.24333,
+      "longitude": 32.3009
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15713",
+      "portname": "Lae",
+      "latitude": -6.73497,
+      "longitude": 146.9797
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15740",
+      "portname": "Jakarta",
+      "latitude": -6.10434,
+      "longitude": 106.80256
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15741",
+      "portname": "Tanjung Priok",
+      "latitude": -6.10492,
+      "longitude": 106.87615
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15790",
+      "portname": "Amirabad",
+      "latitude": 36.84111,
+      "longitude": 53.31111
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15799",
+      "portname": "Davao",
+      "latitude": 7.09777,
+      "longitude": 125.64773
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15949",
+      "portname": "Puerto Sucre",
+      "latitude": 10.47463,
+      "longitude": -64.18838
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15950",
+      "portname": "Puerto Limon",
+      "latitude": 9.99064,
+      "longitude": -83.02554
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15951",
+      "portname": "Balboa",
+      "latitude": 8.95775,
+      "longitude": -79.56073
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15952",
+      "portname": "Cirebon",
+      "latitude": -6.70907,
+      "longitude": 108.57073
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15953",
+      "portname": "Banjarmasin",
+      "latitude": -3.33321,
+      "longitude": 114.5551
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15954",
+      "portname": "Callao",
+      "latitude": -12.04873,
+      "longitude": -77.14381
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15973",
+      "portname": "Suez",
+      "latitude": 29.94283,
+      "longitude": 32.56592
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15974",
+      "portname": "Sattahip",
+      "latitude": 12.62933,
+      "longitude": 100.92319
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15983",
+      "portname": "Makassar",
+      "latitude": -5.13222,
+      "longitude": 119.40315
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15985",
+      "portname": "Balikpapan",
+      "latitude": -1.25527,
+      "longitude": 116.81594
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15987",
+      "portname": "Guayaquil",
+      "latitude": -2.23237,
+      "longitude": -79.88674
+    },
+    {
+      "FID": "wld_trs_ports_wfp.15998",
+      "portname": "Jambi",
+      "latitude": -1.58304,
+      "longitude": 103.62216
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16189",
+      "portname": "Veraval",
+      "latitude": 20.90134,
+      "longitude": 70.36949
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16190",
+      "portname": "Surat",
+      "latitude": 21.07929,
+      "longitude": 72.63587
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16198",
+      "portname": "Coquimbo",
+      "latitude": -29.95781,
+      "longitude": -71.33541
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16201",
+      "portname": "Ensenada",
+      "latitude": 31.85753,
+      "longitude": -116.63307
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16202",
+      "portname": "Gemlik",
+      "latitude": 40.42269,
+      "longitude": 29.15261
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16204",
+      "portname": "Kingston",
+      "latitude": 17.98213,
+      "longitude": -76.8242
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16225",
+      "portname": "Madang",
+      "latitude": -5.21118,
+      "longitude": 145.80305
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16226",
+      "portname": "Haifa",
+      "latitude": 32.81338,
+      "longitude": 35.01136
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16227",
+      "portname": "Damietta",
+      "latitude": 31.45161,
+      "longitude": 31.76729
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16228",
+      "portname": "Port Moresby",
+      "latitude": -9.46418,
+      "longitude": 147.15492
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16229",
+      "portname": "Phnom Penh",
+      "latitude": 11.55954,
+      "longitude": 104.93739
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16232",
+      "portname": "Barranquilla",
+      "latitude": 10.96288,
+      "longitude": -74.75962
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16270",
+      "portname": "Alexandria",
+      "latitude": 31.19534,
+      "longitude": 29.88146
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16454",
+      "portname": "Eregli",
+      "latitude": 41.26814,
+      "longitude": 31.42242
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16458",
+      "portname": "Veracruz",
+      "latitude": 19.20581,
+      "longitude": -96.13951
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16459",
+      "portname": "Manaus",
+      "latitude": -3.15376,
+      "longitude": -59.99739
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16478",
+      "portname": "Onne",
+      "latitude": 4.68388,
+      "longitude": 7.1521
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16479",
+      "portname": "Padang",
+      "latitude": -1.00017,
+      "longitude": 100.37084
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16482",
+      "portname": "Semarang",
+      "latitude": -6.9467,
+      "longitude": 110.42515
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16525",
+      "portname": "Benghazi",
+      "latitude": 32.10399,
+      "longitude": 20.03957
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16688",
+      "portname": "Salvador",
+      "latitude": -12.95829,
+      "longitude": -38.50656
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16689",
+      "portname": "San Juan",
+      "latitude": 18.43248,
+      "longitude": -66.09609
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16690",
+      "portname": "Montevideo",
+      "latitude": -34.89977,
+      "longitude": -56.1958
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16691",
+      "portname": "Recife",
+      "latitude": -8.04912,
+      "longitude": -34.87441
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16692",
+      "portname": "Georgetown",
+      "latitude": 6.80793,
+      "longitude": -58.16898
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16713",
+      "portname": "Abadan",
+      "latitude": 30.33011,
+      "longitude": 48.2824
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16730",
+      "portname": "Colon",
+      "latitude": 9.35323,
+      "longitude": -79.906
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16733",
+      "portname": "Surabaya",
+      "latitude": -7.20203,
+      "longitude": 112.73319
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16734",
+      "portname": "Gresik",
+      "latitude": -7.14449,
+      "longitude": 112.65108
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16738",
+      "portname": "Pontianak",
+      "latitude": -0.01847,
+      "longitude": 109.33552
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16785",
+      "portname": "Honiara",
+      "latitude": -9.42726,
+      "longitude": 159.95921
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16792",
+      "portname": "Degrad Des Cannes",
+      "latitude": 4.85372,
+      "longitude": -52.27349
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16807",
+      "portname": "Port Qaboos",
+      "latitude": 23.62772,
+      "longitude": 58.56664
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16843",
+      "portname": "Laem Chabang",
+      "latitude": 13.06917,
+      "longitude": 100.90117
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16844",
+      "portname": "Khor Al Fakkan",
+      "latitude": 25.348,
+      "longitude": 56.36605
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16858",
+      "portname": "Port Gentil",
+      "latitude": -0.71496,
+      "longitude": 8.78451
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16861",
+      "portname": "Rio Haina",
+      "latitude": 18.42218,
+      "longitude": -70.01187
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16868",
+      "portname": "Ilyichevsk",
+      "latitude": 46.31461,
+      "longitude": 30.66402
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16880",
+      "portname": "Sevastopol",
+      "latitude": 44.61475,
+      "longitude": 33.50764
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16883",
+      "portname": "Evpatoria",
+      "latitude": 45.18809,
+      "longitude": 33.37369
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16884",
+      "portname": "Feodosia",
+      "latitude": 45.02829,
+      "longitude": 35.38767
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16890",
+      "portname": "Mersin",
+      "latitude": 36.79997,
+      "longitude": 34.63525
+    },
+    {
+      "FID": "wld_trs_ports_wfp.16969",
+      "portname": "Pointe-a\u0080-Pitre",
+      "latitude": 16.24128,
+      "longitude": -61.54063
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17063",
+      "portname": "Santiago De Cuba",
+      "latitude": 20.02726,
+      "longitude": -75.83812
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17075",
+      "portname": "Bandar Khomeini",
+      "latitude": 30.42907,
+      "longitude": 49.08256
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17100",
+      "portname": "Rio De Janeiro",
+      "latitude": -22.90285,
+      "longitude": -43.17308
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17138",
+      "portname": "Paradip",
+      "latitude": 20.27604,
+      "longitude": 86.68101
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17139",
+      "portname": "Jubail",
+      "latitude": 27.01966,
+      "longitude": 49.65121
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17144",
+      "portname": "Marsa El Brega",
+      "latitude": 30.41715,
+      "longitude": 19.58225
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17151",
+      "portname": "Ambarli",
+      "latitude": 40.97633,
+      "longitude": 28.6957
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17156",
+      "portname": "Subic Bay",
+      "latitude": 14.8231,
+      "longitude": 120.29334
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17164",
+      "portname": "Niteroi",
+      "latitude": -22.89378,
+      "longitude": -43.12426
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17174",
+      "portname": "Yanbo",
+      "latitude": 24.07416,
+      "longitude": 38.07657
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17177",
+      "portname": "Da Nang",
+      "latitude": 16.1204,
+      "longitude": 108.21733
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17247",
+      "portname": "Vishakhapatnam",
+      "latitude": 17.69603,
+      "longitude": 83.29994
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17269",
+      "portname": "Karachi",
+      "latitude": 24.83646,
+      "longitude": 66.97609
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17309",
+      "portname": "Puerto Quetzal",
+      "latitude": 13.92729,
+      "longitude": -90.78618
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17311",
+      "portname": "Dos Bocas Terminal",
+      "latitude": 18.42974,
+      "longitude": -93.1831
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17318",
+      "portname": "Port Rashid",
+      "latitude": 25.24865,
+      "longitude": 55.27103
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17324",
+      "portname": "Anzali",
+      "latitude": 37.4766,
+      "longitude": 49.46727
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17382",
+      "portname": "Dilovasi",
+      "latitude": 40.77108,
+      "longitude": 29.54326
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17385",
+      "portname": "Saigon",
+      "latitude": 10.75853,
+      "longitude": 106.7181
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17387",
+      "portname": "Cebu",
+      "latitude": 10.30435,
+      "longitude": 123.91541
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17401",
+      "portname": "Yuzhnyy",
+      "latitude": 46.61595,
+      "longitude": 31.02712
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17402",
+      "portname": "Nikolayev",
+      "latitude": 46.94275,
+      "longitude": 31.97247
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17458",
+      "portname": "Tuticorin",
+      "latitude": 8.75636,
+      "longitude": 78.1941
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17474",
+      "portname": "La Plata",
+      "latitude": -34.86214,
+      "longitude": -57.8957
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17530",
+      "portname": "Shuaiba",
+      "latitude": 29.0395,
+      "longitude": 48.15593
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17544",
+      "portname": "Mumbai",
+      "latitude": 18.9247,
+      "longitude": 72.83812
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17548",
+      "portname": "Shuwaikh",
+      "latitude": 29.34865,
+      "longitude": 47.93437
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17578",
+      "portname": "Jebel Ali",
+      "latitude": 24.99389,
+      "longitude": 55.04795
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17634",
+      "portname": "Haldia",
+      "latitude": 22.02446,
+      "longitude": 88.05092
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17643",
+      "portname": "Mina Salman",
+      "latitude": 26.19012,
+      "longitude": 50.71173
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17645",
+      "portname": "Bremerhaven",
+      "latitude": 53.56566,
+      "longitude": 8.56288
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17646",
+      "portname": "Las Palmas",
+      "latitude": 28.14147,
+      "longitude": -15.42721
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17647",
+      "portname": "Algeciras",
+      "latitude": 36.1283,
+      "longitude": -5.44502
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17648",
+      "portname": "Cochin",
+      "latitude": 9.96772,
+      "longitude": 76.2673
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17649",
+      "portname": "Navalakhi",
+      "latitude": 22.96026,
+      "longitude": 70.44507
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17650",
+      "portname": "Mandvi",
+      "latitude": 22.83217,
+      "longitude": 69.35905
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17651",
+      "portname": "Porbandar",
+      "latitude": 21.63355,
+      "longitude": 69.59201
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17652",
+      "portname": "Mormugao",
+      "latitude": 15.40865,
+      "longitude": 73.80131
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17653",
+      "portname": "Mangalore",
+      "latitude": 12.85832,
+      "longitude": 74.83261
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17654",
+      "portname": "Kakinada",
+      "latitude": 16.96855,
+      "longitude": 82.2779
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17655",
+      "portname": "Kandla",
+      "latitude": 23.00256,
+      "longitude": 70.22264
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17656",
+      "portname": "Salalah",
+      "latitude": 16.93874,
+      "longitude": 53.99858
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17658",
+      "portname": "Calcutta",
+      "latitude": 22.57597,
+      "longitude": 88.34609
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17661",
+      "portname": "Port Sudan",
+      "latitude": 19.60101,
+      "longitude": 37.22835
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17669",
+      "portname": "Duqm",
+      "latitude": 19.65835,
+      "longitude": 57.71183
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17676",
+      "portname": "Colombo",
+      "latitude": 6.94119,
+      "longitude": 79.8428
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17678",
+      "portname": "Yangon",
+      "latitude": 16.76688,
+      "longitude": 96.17397
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17715",
+      "portname": "Walvis Bay",
+      "latitude": -22.95795,
+      "longitude": 14.48488
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17716",
+      "portname": "Beira",
+      "latitude": -19.82676,
+      "longitude": 34.83322
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17717",
+      "portname": "Maputo",
+      "latitude": -25.97701,
+      "longitude": 32.5754
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17720",
+      "portname": "Port Vila",
+      "latitude": -17.75535,
+      "longitude": 168.30622
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17725",
+      "portname": "Suva",
+      "latitude": -18.1336,
+      "longitude": 178.42447
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17737",
+      "portname": "Buenaventura",
+      "latitude": 3.89244,
+      "longitude": -77.07841
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17739",
+      "portname": "Mamonal",
+      "latitude": 10.32662,
+      "longitude": -75.50977
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17746",
+      "portname": "Sur",
+      "latitude": 22.5769,
+      "longitude": 59.51748
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17747",
+      "portname": "Istanbul",
+      "latitude": 41.02709,
+      "longitude": 28.98473
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17760",
+      "portname": "Cilacap",
+      "latitude": -7.74913,
+      "longitude": 109.01491
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17777",
+      "portname": "Santo Domingo",
+      "latitude": 18.47557,
+      "longitude": -69.88201
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17787",
+      "portname": "Djibouti",
+      "latitude": 11.6065,
+      "longitude": 43.13937
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17801",
+      "portname": "Lagos",
+      "latitude": 6.43672,
+      "longitude": 3.38966
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17802",
+      "portname": "Dar Es Salaam",
+      "latitude": -6.81982,
+      "longitude": 39.28792
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17807",
+      "portname": "Durban",
+      "latitude": -29.88108,
+      "longitude": 31.01967
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17812",
+      "portname": "Punta Piedras",
+      "latitude": 10.58756,
+      "longitude": -71.61605
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17822",
+      "portname": "Weno",
+      "latitude": 7.4455,
+      "longitude": 151.83988
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17823",
+      "portname": "Hodeidah",
+      "latitude": 14.8323,
+      "longitude": 42.93464
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17824",
+      "portname": "Riga",
+      "latitude": 57.0401,
+      "longitude": 24.077
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17832",
+      "portname": "Tomil",
+      "latitude": 9.51578,
+      "longitude": 138.12526
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17838",
+      "portname": "Apra",
+      "latitude": 13.43965,
+      "longitude": 144.6628
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17860",
+      "portname": "Chittagong Port",
+      "latitude": 22.30146,
+      "longitude": 91.79599
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17869",
+      "portname": "Douala",
+      "latitude": 4.06603,
+      "longitude": 9.70061
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17876",
+      "portname": "King Abdullah Port",
+      "latitude": 22.3051,
+      "longitude": 39.10406
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17878",
+      "portname": "Manzanillo",
+      "latitude": 9.36139,
+      "longitude": -79.88075
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17879",
+      "portname": "Houston",
+      "latitude": 29.73005,
+      "longitude": -95.27215
+    },
+    {
+      "FID": "wld_trs_ports_wfp.17880",
+      "portname": "Gioia Tauro",
+      "latitude": 38.45794,
+      "longitude": 15.90899
+    }
+  ],
+  "route": [
+    [
+      13.06917,
+      100.90117
+    ],
+    [
+      24.07416,
+      38.07657
+    ],
+    [
+      31.19534,
+      29.88146
+    ],
+    [
+      46.65936,
+      32.66325
+    ],
+    [
+      47.469485,
+      8.384499
+    ]
+  ]
+}

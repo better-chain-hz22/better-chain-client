@@ -1,0 +1,26 @@
+@use '@carbon/grid';
+
+// Emit the flex-grid styles
+@include grid.flex-grid();
+
+.cds--header__name--prefix {
+  white-space: nowrap;
+}
+
+.cds--btn--primary {
+  background-color: #f60;
+
+  &:hover {
+    background-color: #cc5200;
+    border-color: #a33307;
+  }
+
+  &:active {
+    background-color: #f60;
+  }
+
+  &:focus {
+    border-color: #f60;
+    box-shadow: none;
+  }
+}
