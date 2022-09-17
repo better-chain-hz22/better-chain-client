@@ -1,0 +1,66 @@
+[
+  {
+    "id": "TWKHH",
+    "port_name": "Kaohsiung",
+    "position": [
+      22.60863,
+      120.28511
+    ]
+  },
+  {
+    "id": "ITGOA",
+    "port_name": "Genova",
+    "position": [
+      44.40205,
+      8.92996
+    ]
+  },
+  {
+    "id": "HKHKG",
+    "port_name": "Hong Kong",
+    "position": [
+      22.30198,
+      114.16482
+    ]
+  },
+  {
+    "id": "KRPUS",
+    "port_name": "Pusan",
+    "position": [
+      35.1243,
+      129.06014
+    ]
+  },
+  {
+    "id": "EGPSD",
+    "port_name": "Port Said",
+    "position": [
+      31.24333,
+      32.3009
+    ]
+  },
+  {
+    "id": "EGSUZ",
+    "port_name": "Suez",
+    "position": [
+      29.94283,
+      32.56592
+    ]
+  },
+  {
+    "id": "ITSPE",
+    "port_name": "La Spezia",
+    "position": [
+      44.10148,
+      9.81724
+    ]
+  },
+  {
+    "id": "CNNGB",
+    "port_name": "Ningbo",
+    "position": [
+      29.87347,
+      121.55539
+    ]
+  }
+]

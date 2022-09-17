@@ -30,7 +30,7 @@ function RiskMarker({position, alerts}) {
 
         const markerCircle = L.circleMarker(position, {
             radius: 15,
-            color: mapSeverityToColor(getMaxSeverity(alerts))
+            color: alerts.length > 0 ? mapSeverityToColor(getMaxSeverity(alerts)) : '#198038'
         });
 
         const label = L.marker(position, {

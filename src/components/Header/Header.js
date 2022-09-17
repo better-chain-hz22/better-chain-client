@@ -4,7 +4,8 @@ import {Header, HeaderName, HeaderGlobalBar, HeaderGlobalAction, Search} from "@
 
 function AppHeader() {
     return (
-        <Header aria-label={'header'}>
+        <div style={{marginBottom: '3rem'}}>
+        <Header  aria-label={'header'}>
             <HeaderName href="#" prefix="BETTER CHAIN">
                 for
                 <img alt={'logo'} src={logo} height={16} style={{marginLeft: '.3rem'}} />
@@ -33,7 +34,9 @@ function AppHeader() {
                 </HeaderGlobalAction>
             </HeaderGlobalBar>
         </Header>
+        </div>
     );
+
 }
 
 export default AppHeader;

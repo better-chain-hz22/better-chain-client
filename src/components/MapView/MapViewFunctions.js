@@ -7,15 +7,15 @@ import RiskMarker from "./RiskMarker";
 const MapViewFunctions = () => {
 
     const _PortIcon = new L.Icon({
-        iconUrl: require('../../images/icons/harbor.svg').default,
-        iconRetinaUrl: require('../../images/icons/harbor.svg').default,
+        iconUrl: require('../../images/icons/flag.svg').default,
+        iconRetinaUrl: require('../../images/icons/flag.svg').default,
         iconSize: new L.Point(16, 16),
         className: 'port_icon'
     });
 
     const _DestinationPortIcon = new L.Icon({
-        iconUrl: require('../../images/icons/location--filled.svg').default,
-        iconRetinaUrl: require('../../images/icons/location--filled.svg').default,
+        iconUrl: require('../../images/icons/flag--filled.svg').default,
+        iconRetinaUrl: require('../../images/icons/flag--filled.svg').default,
         iconSize: new L.Point(16, 16),
         className: 'delivery_icon'
     });
@@ -80,8 +80,8 @@ const MapViewFunctions = () => {
 
     const renderPortAlerts = (portAlerts) => {
         return portAlerts.map(p => {
-          return p.alerts.length && <RiskMarker position={p.position}
-                             alerts={p.alerts}
+          return <RiskMarker position={p.position}
+                             alerts={p.alerts || []}
           />
         })
     }
