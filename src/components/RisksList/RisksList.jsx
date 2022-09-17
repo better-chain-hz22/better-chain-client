@@ -1,19 +1,15 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import {useHistory} from 'react-router-dom';
 import './risks_list.scss';
 import {ClickableTile} from "@carbon/react/lib/components/Tile/Tile";
 import {mapSeverityToColor} from "../../meta";
 import {Toggle} from "@carbon/react";
 
 
-
-
-const OrderRow = ({data}) => {
-    let navigate = useNavigate();
+const OrderRow = ({data, history}) => {
     const handleClick = () => {
-        navigate('/order-page');
+        history.push(`/order-page/${data.id}`);
     }
-
     return (
             <ClickableTile
                 onClick={() => {handleClick()}}
@@ -46,6 +42,7 @@ const OrderRow = ({data}) => {
 }
 
 function RisksList({orders, setIsShowPorts, isShowPorts}) {
+    let history = useHistory();
     return (
         <>
             <div style={{display:'flex', justifyContent: 'flex-end'}}>
@@ -62,7 +59,7 @@ function RisksList({orders, setIsShowPorts, isShowPorts}) {
             </div>
             <h4>Orders at-risk</h4>
             {orders.map(o => {
-                return <OrderRow data={o} />
+                return <OrderRow key={o.id} data={o} history={history} />
             })}
         </>
     );

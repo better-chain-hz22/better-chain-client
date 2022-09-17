@@ -1,9 +1,8 @@
-import { Circle, CircleMarker, Marker, Popup, SVGOverlay } from "react-leaflet";
+import { Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 import RouteAnimation from "./RouteAnimation";
 import RiskMarker from "./RiskMarker";
-import { useState } from "react";
 
 const MapViewFunctions = () => {
   const _PortIcon = new L.Icon({
@@ -36,7 +35,7 @@ const MapViewFunctions = () => {
     return ports.map((o) => {
       return (
         <Marker key={o.id} position={o.position} icon={_PortIcon}>
-          <Popup>{o.port_name}</Popup>
+          <Popup>Port:{o.port_name}</Popup>
         </Marker>
       );
     });
@@ -66,16 +65,55 @@ const MapViewFunctions = () => {
     });
   };
 
-  const renderPortAlerts = (portAlerts) => {
-    return portAlerts.map((p) => {
+  const renderPortAlerts = (portAlerts, forceManipulation = true) => {
+    const parsedData = forceManipulation ? _preparePortsWithRisks(portAlerts) : portAlerts;
+    return parsedData.map((p) => {
       return (
         <RiskMarker
-          position={[p.info.latitude, p.info.longitude]}
+          position={p.position}
           alerts={p.alerts || []}
         />
       );
     });
   };
+
+  const _preparePortsWithRisks = (portAlerts) => {
+    let ports = {};
+    portAlerts.forEach(p => {
+      const portId = p.info.code;
+      if (!(portId in ports)) {
+        ports[portId] = {
+          id: portId,
+          port_name: p.info.portname,
+          position: [
+              p.info.latitude, p.info.longitude
+          ],
+          alerts: [
+            {
+              type: p.riskType,
+              severity: Math.round(Math.random() * 100) / 100,
+              duration: {
+                startTime: p.start,
+                endTime: p.end,
+              }
+            }
+          ]
+        };
+      } else {
+        ports[portId]['alerts'].push(
+            {
+              type: p.riskType,
+              severity: Math.random(),
+              duration: {
+                startTime: p.start,
+                endTime: p.end,
+              }
+            }
+        );
+      }
+    });
+    return Object.values(ports);
+  }
 
   return {
     renderPorts,

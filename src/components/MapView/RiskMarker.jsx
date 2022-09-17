@@ -7,7 +7,7 @@ const riskInfoPopup = (alerts) => {
     let html = '';
     html += '<ul>';
     alerts.forEach(o => {
-        html += `<li>${o.type} (${o.severity})</li>`;
+        html += `<li>Type: ${o.type} <br />Score: ${o.severity}</li>`;
     })
     html += '</ul>';
     return html;
@@ -42,8 +42,8 @@ function RiskMarker({position, alerts}) {
 
             })
         });
-        markerCircle.addTo(map);
         label.addTo(map);
+        markerCircle.addTo(map);
 
         const alertsDOM = riskInfoPopup(alerts);
         markerCircle.bindPopup(

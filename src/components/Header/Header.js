@@ -33,6 +33,7 @@ function AppHeader() {
           }}
           onKeyDown={(e) => {
             if (e.key === "Enter") {
+              console.log(e.target.value);
               console.log("do search");
             }
           }}
