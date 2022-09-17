@@ -3,6 +3,7 @@ import "leaflet/dist/leaflet.css";
 import L from "leaflet";
 import RouteAnimation from "./RouteAnimation";
 import RiskMarker from "./RiskMarker";
+import { useState } from "react";
 
 const MapViewFunctions = () => {
   const _PortIcon = new L.Icon({
@@ -67,7 +68,12 @@ const MapViewFunctions = () => {
 
   const renderPortAlerts = (portAlerts) => {
     return portAlerts.map((p) => {
-      return <RiskMarker position={p.position} alerts={p.alerts || []} />;
+      return (
+        <RiskMarker
+          position={[p.info.latitude, p.info.longitude]}
+          alerts={p.alerts || []}
+        />
+      );
     });
   };
 

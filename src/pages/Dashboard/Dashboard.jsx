@@ -9,7 +9,7 @@ function Dashboard(props) {
     const  [data, setData] = useState({});
     const  [error, setError] = useState(null);
 
-    fetch("http://10.101.114.132:5000/risks_for_order?order_id=0040090247")
+    fetch("http://34.123.202.156/risks_for_order?order_id=0040090247")
     .then(result => result.json())
     .then((jsonResult) => {
         setData(jsonResult);
