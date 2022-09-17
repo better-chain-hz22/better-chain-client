@@ -7,6 +7,7 @@ import './order_page.scss';
 
 
 
+
 function OrderPage() {
     let navigate = useNavigate();
     const handleClick = () => {
@@ -17,7 +18,7 @@ function OrderPage() {
             <h1>Order Detail Page</h1>
             <div className="cds--row">
                 <div className="cds--col">
-                    <MapView isShowPorts={false} />
+                    <MapView isShowPorts={false} /> 
                 </div>
                 <div className="cds--col-sm-4 cds--col-md-2 cds--col-lg-4">
                     <p>Order Number</p>
@@ -37,8 +38,8 @@ function OrderPage() {
                         <p className='detail_row__item'>ETA</p>
                     </div>
                     <div className='detail_row'>
-                        <h3 className='detail_row__item'>02.12.2020</h3>
-                        <h3 className='detail_row__item'>03.06.2021</h3>
+                        <h4 className='detail_row__item'>02.12.2020</h4>
+                        <h4 className='detail_row__item'>03.06.2021</h4>
                     </div>
                     
                     <hr />
@@ -59,14 +60,11 @@ function OrderPage() {
                         <h4 className='detail_row__item'>Interruptions of routes</h4>
                     </div>
 
-                
-                    
-                    
+                    <hr />                   
 
                     <h2>Impact</h2>
                     <p>🟠 <strong>Delay</strong>: 5 days</p>
-
-                
+                    <hr />                 
 
                 <button onClick={() => {handleClick()}}>Back</button>
                 </div>

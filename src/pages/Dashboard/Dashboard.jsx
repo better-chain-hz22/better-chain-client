@@ -6,6 +6,18 @@ import RisksList from "../../components/RisksList/RisksList";
 
 function Dashboard(props) {
     const [isShowPorts, setIsShowPorts] = useState(false);
+    const  [data, setData] = useState({});
+    const  [error, setError] = useState(null);
+
+    fetch("http://10.101.114.132:5000/risks_for_order?order_id=0040090247")
+    .then(result => result.json())
+    .then((jsonResult) => {
+        setData(jsonResult);
+    },
+    (error) => {
+        setError(error);
+    })
+
     return (
         <div className="cds--grid">
             <div className="cds--row">
@@ -16,6 +28,7 @@ function Dashboard(props) {
                     <RisksList orders={mock_data.orders_at_risk} isShowPorts={isShowPorts} setIsShowPorts={setIsShowPorts} />
                 </div>
             </div>
+            <p></p>
         </div>
     );
 }
