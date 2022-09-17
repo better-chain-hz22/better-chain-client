@@ -1,3 +1,4 @@
+import { useHistory } from "react-router-dom";
 import logo from "../../images/migros-logo.svg";
 import { Information } from "@carbon/icons-react";
 import {
@@ -10,6 +11,8 @@ import {
 import { Link } from "react-router-dom";
 
 function AppHeader() {
+  let history = useHistory();
+
   return (
     <div style={{ marginBottom: "3rem" }}>
       <Header aria-label={"header"}>
@@ -33,8 +36,9 @@ function AppHeader() {
           }}
           onKeyDown={(e) => {
             if (e.key === "Enter") {
-              console.log(e.target.value);
-              console.log("do search");
+              if (e.target.value) {
+                history.push(`/order-page/${e.target.value}`);
+              }
             }
           }}
           onClear={() => {

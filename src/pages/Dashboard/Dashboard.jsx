@@ -30,6 +30,8 @@ function Dashboard(props) {
                 <div className="cds--col">
                     <MapView>
                         {riskDataForOrder && MapViewFunctions.renderPortAlerts(riskDataForOrder)}
+                        {isShowPorts && MapViewFunctions.renderDestinationPorts(mock_data.destination_ports)}
+                        {isShowPorts && MapViewFunctions.renderSourcePorts(mock_data.source_ports)}
                     </MapView>
                 </div>
                 <div className="cds--col-sm-4 cds--col-md-2 cds--col-lg-4">
