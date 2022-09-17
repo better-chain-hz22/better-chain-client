@@ -1,7 +1,8 @@
 import React, {useState} from 'react';
-import {mock_data} from "../components/MapView/mock";
-import MapView from "../components/MapView";
-import RisksList from "../components/RisksList/RisksList";
+import {mock_data} from "../../components/MapView/mock";
+import MapView from "../../components/MapView";
+import RisksList from "../../components/RisksList/RisksList";
+
 
 function Dashboard(props) {
     const [isShowPorts, setIsShowPorts] = useState(false);
