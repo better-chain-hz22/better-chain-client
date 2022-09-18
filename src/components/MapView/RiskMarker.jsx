@@ -7,7 +7,7 @@ const riskInfoPopup = (alerts) => {
     let html = '';
     html += '<ul>';
     alerts.forEach(o => {
-        html += `<li>Type: ${o.type} <br />Score: ${o.severity}</li>`;
+        html += `<li>Type: ${o.type} <br />Score: ${o.severity} <br /> Start: ${o.duration.startTime} <br /> End: ${o.duration.endTime}</li>`;
     })
     html += '</ul>';
     return html;
